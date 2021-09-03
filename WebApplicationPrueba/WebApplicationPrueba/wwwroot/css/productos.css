@@ -1,0 +1,23 @@
+#enviar{
+	border-radius: 20px;
+}
+
+.btn:not(:disabled):not(.disabled){
+	border-radius: 20px;
+}
+/*body{
+	background-image: url(hola.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}*/
+
+img{
+	border-radius: 8px;
+	
+}
+
+#in{
+	min-height: 400px;
+	max-height: 400px;
+}

@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<WebApplicationPrueba.Entities.Hijo>
+@inject SignInManager<IdentityUser> SignInManager
+
+@{
+    ViewData["Title"] = "Hijos";
+}
+
+<h1>Hijos</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Edad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EsCarga)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nacimiento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCompleto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Edad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EsCarga)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nacimiento)
+                </td>
+                <td>
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.HijoId">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@item.HijoId"> Borrar </a>
+                    }
+
+                    <a asp-action="Details" asp-route-id="@item.HijoId">Detalles</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

@@ -1,0 +1,556 @@
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.Development.json
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.json
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.StaticWebAssets.xml
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.exe
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.deps.json
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.json
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.dev.json
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ref\WebApplicationPrueba.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Humanizer.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.AssemblyReference.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfoInputs.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfo.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CoreCompileInputs.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.Manifest.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.xml
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\scopedcss\bundle\WebApplicationPrueba.styles.css
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.input.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.output.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorCoreGenerate.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.Views.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CopyComplete
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\ref\WebApplicationPrueba.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.pdb
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.genruntimeconfig.cache
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Create.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Delete.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Details.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Edit.cshtml.g.cs
+D:\moises\3 semestre\Programacion Visual\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.Development.json
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.json
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.StaticWebAssets.xml
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.exe
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.deps.json
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.json
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.dev.json
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ref\WebApplicationPrueba.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Humanizer.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.AssemblyReference.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfoInputs.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfo.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CoreCompileInputs.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.Manifest.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.xml
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\scopedcss\bundle\WebApplicationPrueba.styles.css
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.input.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.output.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorCoreGenerate.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.Views.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CopyComplete
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\ref\WebApplicationPrueba.dll
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.pdb
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.genruntimeconfig.cache
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Hijos.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\registro.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Index.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Create.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Delete.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Details.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Edit.cshtml.g.cs
+D:\moises\proyectos\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\appsettings.json
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.StaticWebAssets.xml
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.exe
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.deps.json
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.json
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.runtimeconfig.dev.json
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ref\WebApplicationPrueba.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\WebApplicationPrueba.Views.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Humanizer.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.AssemblyReference.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfoInputs.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.AssemblyInfo.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CoreCompileInputs.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorAssemblyInfo.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.Manifest.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\staticwebassets\WebApplicationPrueba.StaticWebAssets.xml
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\scopedcss\bundle\WebApplicationPrueba.styles.css
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.input.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.TagHelpers.output.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorCoreGenerate.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Conyuges\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Departamentos\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Hijos.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Empleados\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Hijoes\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Create.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Delete.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Details.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Edit.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Proveedores\Index.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\registro.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cache
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.RazorTargetAssemblyInfo.cs
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.Views.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.csproj.CopyComplete
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\ref\WebApplicationPrueba.dll
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.pdb
+C:\Users\famil\Desktop\Crm\WebApplicationPrueba\WebApplicationPrueba\obj\Debug\net5.0\WebApplicationPrueba.genruntimeconfig.cache
